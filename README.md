@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 * Talk to me about Psychology, AI, Life, Yoga.
 * I have 2.5 years of experience as a Data Scientist and am only inclined towards research intensive, challenging work.
 
-Fun Fact: I have tons of content drafts that naver see light of the day.
+Fun Fact: I have tons of content drafts that never see the light of day.
