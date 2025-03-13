@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 * I am currently researching on AI assisted neuroimaging.
 * I have a passion for creation and expression through writing.
-* Talk to me about Psychology, AI, Life, Yoga.
+<!--# * Talk to me about AI, Psychology, Life, Yoga. -->
 * I have 2.5 years of experience as a Data Scientist and am only inclined towards research intensive, challenging work.
